@@ -1,6 +1,6 @@
 ## Unit Assignment: Kudos Board
 
-Submitted by: **Joshua Donatien**
+Submitted by: **Camila Acquarone**
 
 ### Application Features
 
